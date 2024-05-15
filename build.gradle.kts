@@ -15,7 +15,7 @@ allprojects {
 }
 
 subprojects {
-    val GROUP = come.tet.kmm.test
+    val GROUP = "come.tet.kmm.test"
     val LIBRARY_VERSION = 1.0
 
     group = GROUP
